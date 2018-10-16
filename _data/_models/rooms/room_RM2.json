@@ -162,7 +162,36 @@
     ]
   },
   "images": [
-
+    {
+      "caption": "Image 1",
+      "description": "",
+      "alt": "Image 1",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1269/68470_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 2",
+      "description": "",
+      "alt": "Image 2",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1269/68471_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 3",
+      "description": "",
+      "alt": "Image 3",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1269/68472_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 4",
+      "description": "",
+      "alt": "Image 4",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1269/68473_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 5",
+      "description": "",
+      "alt": "Image 5",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1269/68474_1_yankee_large.jpg"
+    }
   ],
   "reztrip_room_id": "RM2",
   "order": 2
